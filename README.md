@@ -1,7 +1,7 @@
 # APP CONVERSOR DE TEMPERATURA
 👨‍🏫CONVERSOR DE TEMPERATURA EM CELSIUS, FAHRENHEIT E KELVIN COM ELECTRONJS E BOOTSTRAP.
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="IMAGEM.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Esse aplicativo é uma ferramenta simples e intuitiva que permite converter temperaturas entre três unidades: Celsius, Fahrenheit e Kelvin. Ele é projetado para ser fácil de usar e fornece conversões precisas em tempo real.
